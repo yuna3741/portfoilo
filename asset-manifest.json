@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfoilo/static/css/main.dbba80fa.css",
+    "main.js": "/portfoilo/static/js/main.0abff945.js",
+    "static/js/453.b0afbdb4.chunk.js": "/portfoilo/static/js/453.b0afbdb4.chunk.js",
+    "static/media/Freesentation-1Thin.ttf": "/portfoilo/static/media/Freesentation-1Thin.06fa6c18693f362fe73f.ttf",
+    "static/media/Freesentation-2ExtraLight.ttf": "/portfoilo/static/media/Freesentation-2ExtraLight.ac6cc804b7af321a2d23.ttf",
+    "static/media/Freesentation-3Light.ttf": "/portfoilo/static/media/Freesentation-3Light.ee034d81249c87a0cc67.ttf",
+    "static/media/Freesentation-6SemiBold.ttf": "/portfoilo/static/media/Freesentation-6SemiBold.e6bee0c503ee7656fadd.ttf",
+    "static/media/Freesentation-4Regular.ttf": "/portfoilo/static/media/Freesentation-4Regular.ebfc78419227295a150c.ttf",
+    "static/media/Freesentation-7Bold.ttf": "/portfoilo/static/media/Freesentation-7Bold.e264ac1bf77233f6e4b3.ttf",
+    "static/media/Freesentation-5Medium.ttf": "/portfoilo/static/media/Freesentation-5Medium.2c05acc2bef065097fb8.ttf",
+    "static/media/main_bg2.png": "/portfoilo/static/media/main_bg2.2d5375483cac6be57bf2.png",
+    "static/media/main_bg.png": "/portfoilo/static/media/main_bg.b4a11af3e96989df51e8.png",
+    "static/media/PlayfairDisplay-Bold.ttf": "/portfoilo/static/media/PlayfairDisplay-Bold.a44ebc27b80d88dc868d.ttf",
+    "static/media/SourceCodePro-Light.ttf": "/portfoilo/static/media/SourceCodePro-Light.410ab10535ec3f24c927.ttf",
+    "static/media/SourceCodePro-Regular.ttf": "/portfoilo/static/media/SourceCodePro-Regular.75bc14637f1d0317a8c5.ttf",
+    "static/media/LibreCaslonDisplay-Regular.ttf": "/portfoilo/static/media/LibreCaslonDisplay-Regular.72210bcf518cef04188c.ttf",
+    "index.html": "/portfoilo/index.html",
+    "main.dbba80fa.css.map": "/portfoilo/static/css/main.dbba80fa.css.map",
+    "main.0abff945.js.map": "/portfoilo/static/js/main.0abff945.js.map",
+    "453.b0afbdb4.chunk.js.map": "/portfoilo/static/js/453.b0afbdb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbba80fa.css",
+    "static/js/main.0abff945.js"
+  ]
+}
