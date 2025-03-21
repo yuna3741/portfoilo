@@ -8,55 +8,46 @@ function Contact() {
   };
   return (
     <div className="contact_c">
-    
+
       <div className="c_inner">
-      <div className="bg_1"></div>
-      <div className="bg_2"></div>
+        <div className="bg_1"></div>
+        <div className="bg_2"></div>
         <nav>
           <p onClick={home}>home</p>
         </nav>
 
         <div className="info">
-          <div className="download">
-            <figure>
-              <img src={`${process.env.PUBLIC_URL}/img/contact01.svg`} alt="contact_photo"/>
-            </figure>
-
-            <div className="btn">
-              <div className=" b b1">
-                <p>이력서</p>
-                <a href="#" download>
-                  <button type="button">download</button>
-                </a>
-              </div>
-
-              <div className=" b b2">
-                <p>자기소개서</p>
-                <a href="#" download>
-                  <button type="button">download</button>
-                </a>
-              </div>
-            </div>
+          <div className="text">
+            <h2>contact,</h2>
+            <h3>못해낼 <span>이유나</span> 변명은 없습니다. 어떤 어려움도 성장할 발판으로 삼아 실무에 빠르게 적응하겠습니다.</h3>
           </div>
+
 
           <div className="contact">
 
-            <div className="top">
-              <div className="phone">
+            
+              <div className="box phone">
                 <p>phone</p>
                 <span>010 3033 3741</span>
               </div>
 
-              <div className="email">
+              <div className="box email">
                 <p>E-mail</p>
                 <span>yuna3741@naver.com</span>
               </div>
-            </div>
 
-            <h2>contact,</h2>
+              <div className="box kakao">
+                <p>Kakao talk</p>
+                <span>yuna3741_</span>
+              </div>
+           
+
+
 
 
           </div>
+
+
         </div>
       </div>
     </div>
