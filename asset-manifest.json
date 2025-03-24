@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoilo/static/css/main.816f66fa.css",
-    "main.js": "/portfoilo/static/js/main.48f0ffa2.js",
+    "main.js": "/portfoilo/static/js/main.fe2c2480.js",
     "static/js/453.b0afbdb4.chunk.js": "/portfoilo/static/js/453.b0afbdb4.chunk.js",
     "static/media/Freesentation-1Thin.ttf": "/portfoilo/static/media/Freesentation-1Thin.06fa6c18693f362fe73f.ttf",
     "static/media/Freesentation-2ExtraLight.ttf": "/portfoilo/static/media/Freesentation-2ExtraLight.ac6cc804b7af321a2d23.ttf",
@@ -18,11 +18,11 @@
     "static/media/LibreCaslonDisplay-Regular.ttf": "/portfoilo/static/media/LibreCaslonDisplay-Regular.72210bcf518cef04188c.ttf",
     "index.html": "/portfoilo/index.html",
     "main.816f66fa.css.map": "/portfoilo/static/css/main.816f66fa.css.map",
-    "main.48f0ffa2.js.map": "/portfoilo/static/js/main.48f0ffa2.js.map",
+    "main.fe2c2480.js.map": "/portfoilo/static/js/main.fe2c2480.js.map",
     "453.b0afbdb4.chunk.js.map": "/portfoilo/static/js/453.b0afbdb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.816f66fa.css",
-    "static/js/main.48f0ffa2.js"
+    "static/js/main.fe2c2480.js"
   ]
 }
