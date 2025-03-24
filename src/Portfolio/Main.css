@@ -82,6 +82,11 @@ a {
     color: inherit;
 }
 
+::selection{
+    background-color: #DB3A00;
+    color: #fff;
+}
+
 .wrap {
     width: 100%;
     height: 100%;

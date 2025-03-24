@@ -81,9 +81,12 @@ function Main() {
                                     <p>Id</p>
                                     <p>Html</p>
                                     <p>Css</p>
+                                    <p>Figma</p>
                                     <p>j-Query</p>
                                     <p>Javascript</p>
                                     <p>React</p>
+                                    <p>React-Query</p>
+                                    <p>React-Router-dom</p>
                                 </div>
                             </div>
 
