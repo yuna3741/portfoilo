@@ -58,14 +58,14 @@ function Main() {
                                 <div className="btn">
                                     <div className=" b b1">
                                         <p>이력서</p>
-                                        <a href="/pdf/Resume_leeyuna.pdf" download="Resume_leeyuna.pdf">
+                                        <a href="/Resume_leeyuna.pdf" download="Resume_leeyuna.pdf">
                                             <button type="button">download</button>
                                         </a>
                                     </div>
 
                                     <div className=" b b2">
                                         <p>자기소개서</p>
-                                        <a href="/pdf/CoverLetter_leeyuna.pdf" download="CoverLetter_leeyuna.pdf">
+                                        <a href="/CoverLetter_leeyuna.pdf" download="CoverLetter_leeyuna.pdf">
                                             <button type="button">download</button>
                                         </a>
                                     </div>
